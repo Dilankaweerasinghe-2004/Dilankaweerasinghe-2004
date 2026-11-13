@@ -1,7 +1,7 @@
 
 # Hi, I'm Dilanka Weerasinghe 👋
 
-### 🎓 Software Engineering Student
+### 🎓 Computer Science Undergratuate
 
 Welcome to my GitHub profile!
 
