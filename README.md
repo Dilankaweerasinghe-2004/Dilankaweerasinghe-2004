@@ -1,16 +1,32 @@
-## Hi there 👋
 
-<!--
-**Dilankaweerasinghe-2004/Dilankaweerasinghe-2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Dilanka Weerasinghe 👋
 
-Here are some ideas to get you started:
+### 🎓 Software Engineering Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub profile!
+
+I'm a student passionate about technology, programming, and software development.
+
+### 🌱 Currently Learning
+- Programming Fundamentals
+- Software Engineering
+- Problem Solving
+- Web Development
+
+### 💻 Areas of Interest
+- Software Development
+- Java
+- Python
+- Web Technologies
+
+### 🎯 My Goals
+- Improve my programming skills
+- Build real-world projects
+- Learn new technologies
+- Become a skilled Software Developer
+
+### 📫 Connect With Me
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/dilanka-weerasinghe-557669445/)
+
+---
+⭐ Thanks for visiting my profile!
